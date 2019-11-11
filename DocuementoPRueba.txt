@@ -1,4 +1,6 @@
 Archivo de texto
-primera edición
+primera ediciÃ³n
 
-segunda edición para el segundo commit
+segunda ediciÃ³n para el segundo commit
+
+MODIFICACIÃ“N PARA EL TERCER COMMIT DESDE GIT HUB
