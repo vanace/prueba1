@@ -3,3 +3,4 @@ mean(x)
 #Agregando varianza para el tercer commit desde GitHub
 var(x)
 library(MASS)
+s<-sum(x)
