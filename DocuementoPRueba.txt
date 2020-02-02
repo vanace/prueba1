@@ -1,6 +1,8 @@
-Archivo de texto
+﻿Archivo de texto
 primera edición
 
 segunda edición para el segundo commit
 
 MODIFICACIÓN PARA EL TERCER COMMIT DESDE GIT HUB
+
+Vamos modificando para pull a github
